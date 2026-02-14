@@ -1,4 +1,4 @@
-## Hi, I'm Alex 👋
+## Hi, I'm Alex
 
 - University of California, Berkeley  
   B.A. Data Science, Minor in Computer Science
